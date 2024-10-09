@@ -17,8 +17,10 @@ An Android application built with Kotlin that functions as a dictionary for the 
 
 - Android Studio (latest version recommended)
 
-### Installation
+## Installation
 
 1. Clone the repository:
+
    ```bash
-  https://github.com/amjadalnakshbandi/EngLexicon.git ```
+   git clone https://github.com/amjadalnakshbandi/EngLexicon.git
+
