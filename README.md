@@ -21,4 +21,4 @@ An Android application built with Kotlin that functions as a dictionary for the 
 
 1. Clone the repository:
    ```bash
-  https://github.com/amjadalnakshbandi/EngLexicon.git
+  https://github.com/amjadalnakshbandi/EngLexicon.git ```
